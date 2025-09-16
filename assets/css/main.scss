@@ -41,8 +41,9 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-/* Increase author photo size */
-.author__avatar img {
-  max-width: 200px;   /* default is ~120px */
-  border-radius: 0; /* keeps it round */
+/* Make author photo larger and rectangular */
+.sidebar .author__avatar img {
+  max-width: 200px !important;
+  border-radius: 0 !important; /* override the theme's circle */
 }
+
