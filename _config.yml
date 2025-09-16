@@ -24,13 +24,13 @@ repository               : "academicpages/zhengangxu.github.io"
 author:
   # Biographic information
   avatar           : "RH209603.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Zhengang 'Michael' Xu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Economist | Researcher | Educator"
+  location         : "Dallas TX"
+  employer         : "United Health Care"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "zhengang.xu.econ@gmail.com" 
 
   # Academic websites
   academia         : # URL
@@ -40,7 +40,6 @@ author:
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -54,7 +53,6 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
