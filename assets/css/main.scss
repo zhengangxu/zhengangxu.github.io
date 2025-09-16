@@ -41,9 +41,12 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-/* Make author photo larger and rectangular */
+/* Make author photo larger, rectangular, and borderless */
 .sidebar .author__avatar img {
   max-width: 200px !important;
-  border-radius: 0 !important; /* override the theme's circle */
+  border-radius: 0 !important;   /* keep rectangular */
+  border: none !important;       /* remove border */
+  box-shadow: none !important;   /* remove shadow frame */
 }
+
 
