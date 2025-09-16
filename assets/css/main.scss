@@ -44,7 +44,7 @@
 /* Make author photo larger, rectangular, and borderless */
 .sidebar .author__avatar img {
   max-width: 200px !important;   /* increase size */
-  border-radius: 70 !important;   /* keep rectangular */
+  border-radius: 50 !important;   /* keep rectangular */
   border: none !important;       /* remove border */
   box-shadow: none !important;   /* remove shadow frame */
 }
