@@ -43,10 +43,17 @@
 ;
 /* Make author photo larger, rectangular, and borderless */
 .sidebar .author__avatar img {
-  max-width: 200px !important;
+  max-width: 200px !important;   /* increase size */
   border-radius: 0 !important;   /* keep rectangular */
   border: none !important;       /* remove border */
   box-shadow: none !important;   /* remove shadow frame */
 }
+
+/* Optional: adjust the container spacing/centering */
+.sidebar .author__avatar {
+  padding: 0 !important;
+  margin: 0 auto 1rem auto;  /* center horizontally and add space below */
+}
+
 
 
