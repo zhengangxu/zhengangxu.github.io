@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Healthcare Economics Analyst at UnitedHealthcare, where I apply advanced econometric methods and data analysis to inform healthcare policy and drive initiatives aimed at improving health outcomes.
+ I am a Healthcare Economics Analyst at UnitedHealthcare, where I apply advanced econometric methods and data analysis to inform healthcare policy and drive initiatives aimed at improving health outcomes.
 
 Before joining UnitedHealthcare, I was an Assistant Professor of Economics at Simpson College. During my tenure, I taught courses in macroeconomics, microeconomics, international trade, and statistics, fostering a deep understanding of economic theory and its applications among my students.
 
