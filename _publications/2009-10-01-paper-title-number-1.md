@@ -1,14 +1,13 @@
 ---
-title: "The Effects of Female Political Participation on Missing Women: Evidence from the Egyptian Protests of 2011-2014"
+title: "The Effects of Female Political Participation on Missing Women: Evidence from the Egyptian Protests of 2011–2014"
 collection: publications
-category: Working Papers
-# Remove auto "Published in..." by deleting/omitting `date` and `venue`
-paperurl: '/files/Arab_Spring_and_Missing_Women (5).pdf'
+category: workingpapers
+permalink: /publication/female-political-participation-missing-women
+paperurl: '/files/Arab_Spring_and_Missing_Women.pdf'
 excerpt: ''
-permalink: /publication/2025-June
-citation: "R&R forthcoming in the Journal of Comparative Economics"
-# citation: "Hoover, G. A., & Xu, Z. (2025). Do political affiliation and economic wellbeing thwart religious identification in China?. <i>Journal of Demographic Economics</i>, 91(2), 299-319."
+citation: "R&R, forthcoming in the <i>Journal of Comparative Economics</i>."
 ---
+
 
 
 
