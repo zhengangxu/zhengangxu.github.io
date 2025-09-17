@@ -55,6 +55,19 @@
   margin: 0 auto 1rem auto;  /* center horizontally and add space below */
 }
 
+/* Reduce spacing between publication entries */
+.archive__item {
+  margin-bottom: 0.75em;   /* default is ~2em, shrink it */
+}
+
+.archive__item-title {
+  margin-bottom: 0.25em;   /* less gap under titles */
+}
+
+.archive__item p {
+  margin: 0.25em 0;        /* tighten paragraph spacing */
+  line-height: 1.3;        /* reduce line height */
+}
 
 
 
