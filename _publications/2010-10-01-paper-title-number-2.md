@@ -6,7 +6,7 @@ category: publications
 paperurl: '/files/JODE 2024.pdf'
 excerpt: ''
 permalink: /publication/2025-June
-citation: "Hoover, G. A., & Xu, Z. (2025). Do political affiliation and economic wellbeing thwart religious identification in China?. Journal of Demographic Economics, 91(2), 299-319."
+citation: "Hoover, G. A., & Xu, Z. (2025). Do political affiliation and economic wellbeing thwart religious identification in China?. <i>Journal of Demographic Economics</i>, 91(2), 299-319."
 ---
 
 
