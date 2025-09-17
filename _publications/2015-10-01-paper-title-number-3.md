@@ -1,9 +1,9 @@
 ---
 title: "Assessing the efficacy of China's anti-corruption drive: Insights from consumer expenditure patterns"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publications/2025-june/
-date: 2024-05-29
+date: 2025-06
 venue: "European Journal of Political Economy"
 paperurl: "/files/EJPE 2025.pdf"
 excerpt: "*European Journal of Political Economy*, May 2024"
