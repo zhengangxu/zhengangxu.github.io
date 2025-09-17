@@ -5,7 +5,7 @@ category: publications
 date: 2024-05-29
 paperurl: /files/EJPE 2025.pdf
 excerpt: "*European Journal of Political Economy*, May 2024"
-permalink: /publication/2025-june
+permalink: /publication/2025-June
 ---
 
 
