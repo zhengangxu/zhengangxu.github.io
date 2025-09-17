@@ -1,6 +1,6 @@
 ---
 title: "Assessing the efficacy of China's anti-corruption drive: Insights from consumer expenditure patterns"
-collection: publications
+collection: conferences
 category: manuscripts
 permalink: /publications/2025-june/
 date: 2025-06
