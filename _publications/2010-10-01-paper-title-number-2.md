@@ -1,12 +1,12 @@
 ---
-title: "Assessing the efficacy of China's anti-corruption drive: Insights from consumer expenditure patterns"
+title: "Do political affiliation and economic wellbeing thwart religious identification in China?"
 collection: publications
 category: publications
 # Remove auto "Published in..." by deleting/omitting `date` and `venue`
-paperurl: '/files/EJPE 2025.pdf'
+paperurl: '/files/JODE 2024.pdf'
 excerpt: ''
 permalink: /publication/2025-June
-citation: "Xu, Z. (2025). Assessing the efficacy of China's anti-corruption drive: Insights from consumer expenditure patterns. <i>European Journal of Political Economy</i>, 102680."
+citation: "Hoover, G. A., & Xu, Z. (2025). Do political affiliation and economic wellbeing thwart religious identification in China?. Journal of Demographic Economics, 91(2), 299-319."
 ---
 
 
