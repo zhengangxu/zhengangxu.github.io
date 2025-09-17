@@ -1,7 +1,7 @@
 ---
 title: "The Effects of Female Political Participation on Missing Women: Evidence from the Egyptian Protests of 2011-2014"
 collection: publications
-category: publications
+category: Working Papers
 # Remove auto "Published in..." by deleting/omitting `date` and `venue`
 paperurl: '/files/Arab_Spring_and_Missing_Women (5).pdf'
 excerpt: ''
