@@ -93,5 +93,11 @@ h2.archive__subtitle + .archive__item {
   margin: 0.4rem 0 !important;
 }
 
+/* Make the intro text sit flush under the H1 and align left */
+.page__content .research-intro {
+  margin-top: 0;     /* remove default paragraph top spacing */
+  margin-bottom: 1rem; /* keep a little space before the next section */
+  padding-left: 0;
+}
 
 
