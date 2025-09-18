@@ -4,8 +4,8 @@ collection: publications
 category: working-papers
 permalink: /publication/female-political-participation-missing-women
 paperurl: '/files/Arab_Spring_and_Missing_Women (5).pdf'
-excerpt: ''
-citation: "R&R, forthcoming in the <i>Journal of Comparative Economics</i>."
+excerpt: 'R&R, forthcoming in the <i>Journal of Comparative Economics</i>.'
+# citation: "R&R, forthcoming in the <i>Journal of Comparative Economics</i>."
 ---
 
 
