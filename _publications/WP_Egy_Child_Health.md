@@ -1,13 +1,13 @@
 ---
 title: "The Impact of Women’s Political Participation on Children’s Health: Evidence from Egypt’s 2011–2014 Protests"
 collection: publications
-category: working-papers
-permalink: /publication/female-political-participation-missing-women
-# paperurl: '/files/Arab_Spring_and_Missing_Women (5).pdf'
+category: publications
+date: 2025-09-10   # 👈 add this line to control ordering
+paperurl: '/files/EJPE.pdf'
 excerpt: 'Coming soon'
-# citation: "R&R, forthcoming in the <i>Journal of Comparative Economics</i>."
+permalink: /publication/2025-June
+# citation: "Xu, Z. (2025). Assessing the efficacy of China's anti-corruption drive: Insights from consumer expenditure patterns. <i>European Journal of Political Economy</i>, 102680."
 ---
-
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
 
