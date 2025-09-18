@@ -1,7 +1,7 @@
 ---
 title: "The Impact of Women’s Political Participation on Children’s Health: Evidence from Egypt’s 2011–2014 Protests"
 collection: publications
-category: publications
+category: working-papers
 date: 2025-09-10   # 👈 add this line to control ordering
 paperurl: '/files/EJPE.pdf'
 excerpt: 'Coming soon'
