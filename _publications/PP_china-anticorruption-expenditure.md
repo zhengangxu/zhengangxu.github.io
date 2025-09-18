@@ -2,6 +2,7 @@
 title: "Assessing the efficacy of China's anti-corruption drive: Insights from consumer expenditure patterns"
 collection: publications
 category: publications
+date: 2025-06
 # Remove auto "Published in..." by deleting/omitting `date` and `venue`
 paperurl: '/files/EJPE 2025.pdf'
 excerpt: ''
