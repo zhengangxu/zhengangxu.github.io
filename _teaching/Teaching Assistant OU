@@ -1,36 +1,17 @@
 ---
 title: "The University of Oklahoma"
 collection: teaching
+layout: single        # <-- this is the key: ensures the content is shown
+classes: wide         # optional: makes the content area a bit wider
 type: "Teaching Assistant"
-date: 2020-12-31           # controls ordering (newer shows first)
-permalink: /teaching/ou-teaching-assistant
+date: 2020-12-31      # controls ordering on /teaching (newest first)
+permalink: /teaching/ou-teaching-assistant/
+excerpt: "Teaching Assistant — courses assisted (selected)."  # shows under the title on the list page
 ---
 
-<!-- Use plain HTML so it renders the same everywhere -->
-
-<table class="table" style="max-width: 1100px;">
-  <thead>
-    <tr>
-      <th style="width:120px;">Term</th>
-      <th>Course</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>2020</td>
-      <td>Principles of Microeconomics, Elements of Statistics, and International Trade</td>
-    </tr>
-    <tr>
-      <td>2017–2019</td>
-      <td>Labor Economics &amp; Elements of Statistics</td>
-    </tr>
-    <tr>
-      <td>2017 Fall</td>
-      <td>Ph.D.-level Macroeconomics</td>
-    </tr>
-    <tr>
-      <td>2016–2017</td>
-      <td>Principles of Economics — Macro &amp; Intermediate Macroeconomics</td>
-    </tr>
-  </tbody>
-</table>
+| Term      | Course                                                                                          |
+|:----------|:--------------------------------------------------------------------------------------------------|
+| 2020      | Principles of Microeconomics, Elements of Statistics, and International Trade                    |
+| 2017–2019 | Labor Economics & Elements of Statistics                                                         |
+| 2017 Fall | Ph.D.-level Macroeconomics                                                                       |
+| 2016–2017 | Principles of Economics — Macro & Intermediate Macroeconomics                                    |
