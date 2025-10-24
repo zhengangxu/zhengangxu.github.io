@@ -1,12 +1,11 @@
 ---
-layout: archive
 title: "Teaching"
 permalink: /teaching/
+layout: single         # <— use 'single' so the theme doesn't auto-inject an archive list
 author_profile: true
+classes: wide
 ---
-
-{% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
+{% assign items = site.teaching | sort: 'date' | reverse %}
+{% for post in items %}
+  {% include archive-single--content.html post=post %}
 {% endfor %}
