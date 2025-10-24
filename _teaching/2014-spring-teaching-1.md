@@ -1,20 +1,18 @@
 ---
 title: "The University of Oklahoma"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Teaching Assistant"
+permalink: /teaching/ou-ta
+venue: "Department of Economics"
+date: 2019-12-15
+location: "Norman, OK"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+### Courses Assisted
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+| Term       | Course                                                                                  |
+|------------|------------------------------------------------------------------------------------------|
+| 2020       | Principles of Microeconomics; Elements of Statistics; International Trade               |
+| 2017–2019  | Labor Economics; Elements of Statistics                                                  |
+| 2017 Fall  | Ph.D.-level Macroeconomics                                                               |
+| 2016–2017  | Principles of Economics – Macro; Intermediate Macroeconomics                            |
