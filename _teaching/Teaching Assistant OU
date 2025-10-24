@@ -6,7 +6,6 @@ classes: wide         # optional: makes the content area a bit wider
 type: "Teaching Assistant"
 date: 2020-12-31      # controls ordering on /teaching (newest first)
 permalink: /teaching/ou-teaching-assistant/
-excerpt: "Teaching Assistant — courses assisted (selected)."  # shows under the title on the list page
 ---
 
 | Term      | Course                                                                                          |
