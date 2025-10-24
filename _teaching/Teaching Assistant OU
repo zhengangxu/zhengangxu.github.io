@@ -2,41 +2,35 @@
 title: "The University of Oklahoma"
 collection: teaching
 type: "Teaching Assistant"
-date: 2020-12-31   # used for ordering; newer shows first
+date: 2020-12-31           # controls ordering (newer shows first)
 permalink: /teaching/ou-teaching-assistant
-location: "Norman, OK"
-excerpt: "Teaching Assistant — courses assisted (selected). Click to see details."
 ---
 
-## Teaching Assistant
+<!-- Use plain HTML so it renders the same everywhere -->
 
-### Selected Student Evaluation Comments
-
-> “Zhengang Xu is one of the best instructors I’ve ever had at OU. He spends far more hours preparing for his students than I’ve seen any other instructor do. His notes are very easy to understand, and his practice problems are great for grasping concepts. His accent was of no issue and understood him perfectly throughout the semester. For his first class ever taught, I believe Mr. Xu did an excellent job and I'd enjoy taking more of his classes in the future.”
-
-> “He was a good professor and really broke down the steps to help ensure we could apply this in real world problems, during possible jobs or internships. I like that he applied it to real-world examples.”
-
-> “Professor Xu was very helpful and wanted his students to succeed. He was accommodating for needs, and he was always available to answer questions.”
-
----
-
-### Courses Assisted (Selected)
-
-| Term       | Course                                                                                                     | Evaluation (Out of 5) |
-|:-----------|:------------------------------------------------------------------------------------------------------------|:----------------------:|
-| 2020 Winter| Principles of Macroeconomics (Online)                                                                      | 4.5                    |
-| 2020 Summer| Elements of Statistics (Zoom)                                                                              | 4.7                    |
-| 2019 Summer| Principles of Microeconomics                                                                               | 4.3                    |
-| 2018 Winter| Elements of Statistics                                                                                     | 4.0                    |
-| 2018 Summer| Elements of Statistics                                                                                     | 4.0                    |
-
----
-
-### Additional TA Experience
-
-| Term       | Course                                                                                                      |
-|:-----------|:-------------------------------------------------------------------------------------------------------------|
-| 2020       | Principles of Microeconomics, Elements of Statistics, and International Trade                               |
-| 2017–2019  | Labor Economics & Elements of Statistics                                                                     |
-| 2017 Fall  | Ph.D.-level Macroeconomics                                                                                   |
-| 2016–2017  | Principles of Economics — Macro & Intermediate Macroeconomics                                                |
+<table class="table" style="max-width: 1100px;">
+  <thead>
+    <tr>
+      <th style="width:120px;">Term</th>
+      <th>Course</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2020</td>
+      <td>Principles of Microeconomics, Elements of Statistics, and International Trade</td>
+    </tr>
+    <tr>
+      <td>2017–2019</td>
+      <td>Labor Economics &amp; Elements of Statistics</td>
+    </tr>
+    <tr>
+      <td>2017 Fall</td>
+      <td>Ph.D.-level Macroeconomics</td>
+    </tr>
+    <tr>
+      <td>2016–2017</td>
+      <td>Principles of Economics — Macro &amp; Intermediate Macroeconomics</td>
+    </tr>
+  </tbody>
+</table>
