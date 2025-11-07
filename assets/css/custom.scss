@@ -1,0 +1,6 @@
+/* Dark header background for teaching tables */
+table thead tr th {
+  background-color: #222 !important;  /* darker background */
+  color: #fff !important;             /* white text for contrast */
+  font-weight: 600;
+}
