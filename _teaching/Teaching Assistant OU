@@ -1,16 +1,27 @@
----
-title: "The University of Oklahoma"
-collection: teaching
-layout: single        # <-- this is the key: ensures the content is shown
-classes: wide         # optional: makes the content area a bit wider
-type: "Teaching Assistant"
-date: 2020-12-31      # controls ordering on /teaching (newest first)
-permalink: /teaching/Teaching Assistant OU/
----
-
-| Term      | Course                                                                                          |
-|:----------|:--------------------------------------------------------------------------------------------------|
-| 2020      | Principles of Microeconomics, Elements of Statistics, and International Trade                    |
-| 2017–2019 | Labor Economics & Elements of Statistics                                                         |
-| 2017 Fall | Ph.D.-level Macroeconomics                                                                       |
-| 2016–2017 | Principles of Economics — Macro & Intermediate Macroeconomics                                    |
+<table style="width:100%; border-collapse: collapse;">
+  <thead style="background-color:#444; color:#fff;">
+    <tr>
+      <th style="padding:8px; text-align:left;">Term</th>
+      <th style="padding:8px; text-align:left;">Course</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2020</td>
+      <td>Principles of Microeconomics, Elements of Statistics, and International Trade</td>
+    </tr>
+    <tr>
+      <td>2017–2019</td>
+      <td>Labor Economics &amp; Elements of Statistics</td>
+    </tr>
+    <tr>
+      <td>2017 Fall</td>
+      <td>Ph.D.-level Macroeconomics</td>
+    </tr>
+    <tr>
+      <td>2016–2017</td>
+      <td>Principles of Economics — Macro &amp; Intermediate Macroeconomics</td>
+    </tr>
+  </tbody>
+</table>
+                                 |
