@@ -5,7 +5,35 @@ layout: single         # <— use 'single' so the theme doesn't auto-inject an a
 author_profile: true
 classes: wide
 ---
-{% assign items = site.teaching | sort: 'date' | reverse %}
-{% for post in items %}
-  {% include archive-single--content.html post=post %}
-{% endfor %}
+<div class="teaching-block">
+  <h2>The University of Oklahoma</h2>
+  <p><em>Teaching Assistant</em></p>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Term</th>
+        <th>Course</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>2020</td>
+        <td>Principles of Microeconomics, Elements of Statistics, and International Trade</td>
+      </tr>
+      <tr>
+        <td>2017–2019</td>
+        <td>Labor Economics &amp; Elements of Statistics</td>
+      </tr>
+      <tr>
+        <td>2017 Fall</td>
+        <td>Ph.D.-level Macroeconomics</td>
+      </tr>
+      <tr>
+        <td>2016–2017</td>
+        <td>Principles of Economics — Macro &amp; Intermediate Macroeconomics</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
